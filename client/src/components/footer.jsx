@@ -22,12 +22,12 @@ const Footer = () => {
     <div>
       <FooterText>
         <i
-          onClick={() => goto("https://github.com/Dwyte/CipherChat")}
+          onClick={() => goto("https://github.com/Dev-0618/Cipher-Chat")}
           className="fab fa-github"
         />{" "}
         <i
-          onClick={() => goto("https://twitter.com/DwyteMartin")}
-          className="fab fa-twitter"
+          onClick={() => goto("https://linkedin.com./in/dev0root")}
+          className="fab fa-linkedin"
         />
       </FooterText>
     </div>
